@@ -4,6 +4,7 @@
 
 #ifndef PLANILLAEMPLEADOS_CLASEEMPLEADO_H
 #define PLANILLAEMPLEADOS_CLASEEMPLEADO_H
+
 #include "miscelanius.h"
 
 

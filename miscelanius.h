@@ -15,5 +15,6 @@ using namespace std;
 using t_texto = std::string;
 typedef int t_porcentaje;
 typedef double t_dinero;
+typedef  int numeros;
 
 #endif //PLANILLAEMPLEADOS_MISCELANIUS_H
